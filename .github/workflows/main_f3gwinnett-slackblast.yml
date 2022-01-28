@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'f3gwinnett-slackblast'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_553B94F87DA44A58B09DE935CCEBB110 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_219C8DEE996E4D3A856E8225DC5AE4D4 }}
